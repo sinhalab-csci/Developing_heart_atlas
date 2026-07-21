@@ -11,11 +11,11 @@ Processed data of sc/snRNAseq and Visium data will be available for browsing and
 ### General processing (Bayraktar et al & Cranley et al - Figure 1)
 - RNA (including cell type annotations)
 - For ATAC and Visium, see the [GitHub repository for Cranley et al](https://github.com/Teichlab/TissueTypist)
-### Cardiomyocytes annotation and left right identity (Knight-Schrijver & Bayraktar - Figure 2)
+### Cardiomyocytes and left right identity (Knight-Schrijver & Bayraktar - Figure 2)
 - 
 - 
 - 
-### Coronary and Great Vessels identity annotation (Knight-Schrijver & Bayraktar - Figure 3)
+### Coronary and Great Vessels identity (Knight-Schrijver & Bayraktar - Figure 3)
 - 
 - 
 - 
@@ -23,7 +23,7 @@ Processed data of sc/snRNAseq and Visium data will be available for browsing and
 - 
 - 
 - 
-### CMageR training, validation, and Cardiomyocyte trajectories (Knight-Schrijver & Bayraktar - Figure 5)
+### CMageR training and Cardiomyocyte trajectories (Knight-Schrijver & Bayraktar - Figure 5)
 - CellTypist
 - CellAge
 - Temporal features and cardiomyocytes gene program dynamics
