@@ -8,8 +8,8 @@ Data processing and analysis for the papers below:
 Processed data of sc/snRNAseq and Visium data will be available for browsing and download via [heartcellatlas.org](https://www.heartcellatlas.org/foetal.html) at the time of publication.
 
 ## Contents
-### General processing (Bayraktar et al & Cranley et al - Figure 1)
-- RNA (including cell type annotations)
+### Processing and Annotations all cell types (Bayraktar et al & Cranley et al - Figure 1)
+- RNA (including all cell type annotations)
 - For ATAC and Visium, see the [GitHub repository for Cranley et al](https://github.com/Teichlab/TissueTypist)
 ### Cardiomyocytes and left right identity (Knight-Schrijver & Bayraktar - Figure 2)
 - 
